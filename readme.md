@@ -1,0 +1,1 @@
+Page for QMSS GIS/Spatial Analysis transfered to [https://github.com/geelon/qmss-gis](https://github.com/geelon/qmss-gis).
